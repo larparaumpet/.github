@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.svg" alt="Logotipo do Lar Para Um Pet" width="250" />
+  <img src="./assets/logo.png" alt="Logotipo do Lar Para Um Pet" width="250" />
 
   # Lar Para Um Pet 🐾
 
